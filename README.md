@@ -1,4 +1,4 @@
 blog
 ====
-# from http://rusrails.ru/
+Урок с ресурса http://rusrails.ru/
 Ruby on Rails lesson
